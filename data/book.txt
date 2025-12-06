@@ -1,0 +1,63 @@
+CONCEPT: Rational Numbers
+
+DEFINITION:
+A rational number is a number that can be written as a fraction a divided by b, where a and b are integers and b is not zero.
+
+EXPLANATION:
+Rational numbers include all fractions, terminating decimals, and repeating decimals.
+They represent exact quantities.
+Rational numbers can be positive, negative, or zero.
+They are commonly used in measurement, counting, and calculations.
+
+EXAMPLES:
+1/2
+-3/4
+3
+0.5
+0.75
+0.333 repeating
+
+SUMMARY:
+Rational numbers are numbers that can be expressed exactly as fractions of two integers.
+---
+
+CONCEPT: Irrational Numbers
+
+DEFINITION:
+An irrational number is a number that cannot be written as a fraction of two integers.
+
+EXPLANATION:
+Irrational numbers have decimal expansions that never end and never repeat.
+They cannot be expressed exactly.
+They often appear in geometry and advanced mathematics.
+
+EXAMPLES:
+Square root of 2
+Pi
+Euler number e
+
+SUMMARY:
+Irrational numbers are non-repeating, non-terminating decimals that cannot be written as fractions.
+---
+
+CONCEPT: Real Numbers
+
+DEFINITION:
+A real number is any number that can be represented on the number line.
+
+EXPLANATION:
+Real numbers include both rational and irrational numbers.
+They cover every possible point on the number line.
+They are used to measure continuous values such as length and time.
+
+EXAMPLES:
+-5
+0
+2
+1/2
+Square root of 2
+Pi
+
+SUMMARY:
+Real numbers include all rational and irrational numbers.
+---
